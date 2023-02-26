@@ -1,0 +1,142 @@
+/* HEADER */
+.header {
+  position: absolute;
+  width: 1440px;
+  height: 65px;
+  left: 0px;
+  top: 5px;
+
+  background: #010632;
+}
+
+.donations {
+  position: absolute;
+  width: 169px;
+  height: 29px;
+  left: 138px;
+  top: 15px;
+
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 35px;
+
+  color: #ffffff;
+}
+
+.ourprojects {
+  position: absolute;
+  width: 88px;
+  height: 29px;
+  left: 368px;
+  top: 15px;
+
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 35px;
+
+  color: #ffffff;
+}
+
+.header--p {
+  position: absolute;
+  width: 430px;
+  height: 69px;
+  left: 502px;
+  margin: 15px;
+  top: -10px;
+
+  font-family: "Istok Web";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+}
+
+.colortext1 {
+  color: #0075ff;
+}
+
+.colortext {
+  color: #ffffff;
+}
+
+.colortext2 {
+  color: #ffb800;
+}
+
+.aboutus {
+  position: absolute;
+  width: 166px;
+  height: 29px;
+  left: 985px;
+  top: 15px;
+
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+
+  color: #ffffff;
+}
+
+/* BODY */
+
+.section1--h1 {
+  position: absolute;
+  width: 1091px;
+  height: 278px;
+  left: 174px;
+  top: 180px;
+
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 96px;
+  line-height: 139px;
+  text-align: center;
+}
+.section1--colortext {
+  color: #0075ff;
+}
+
+.section1--colortext2 {
+  color: #ffc700;
+}
+
+.section1--image1 {
+  z-index: 10;
+  right: 66%;
+  position: absolute;
+  width: 1440px;
+  height: 714px;
+  left: 0px;
+  top: 65px;
+}
+
+.section1--image2 {
+  z-index: 200;
+  left: 33%;
+  right: 33%;
+  position: absolute;
+  width: 538px;
+  height: 714px;
+  left: 515px;
+  top: 65px;
+}
+
+.section1--image3 {
+  z-index: 3000;
+  left: 66%;
+  position: absolute;
+  width: 388px;
+  height: 715px;
+  left: 1052px;
+  top: 64px;
+}
+
+.section2 {
+  background-color: #010632;
+}
