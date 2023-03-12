@@ -209,7 +209,7 @@
   width: 210px;
   height: 69px;
   left: 889px;
-  top: 41px;
+  top: 15px;
 
   font-style: normal;
   font-weight: 700;
@@ -331,11 +331,22 @@
   background: #060d49;
 }
 
+.section5--div {
+  position: absolute;
+  width: 565px;
+  height: 0px;
+  left: 438px;
+  top: 11px;
+
+  border: 4px solid #ffffff;
+  border-radius: 25px;
+}
+
 .section5--h2 {
   position: absolute;
   width: 753px;
   height: 69px;
-  left: 550px;
+  left: 570px;
   top: -5px;
 
   font-style: normal;
@@ -361,7 +372,7 @@
   width: 335px;
   height: 234px;
   left: 153px;
-  top: 188px;
+  top: 180px;
 }
 
 .section5--h3 {
@@ -422,6 +433,7 @@
   top: 551px;
 
   border: 5px solid #ffd600;
+  border-radius: 25px;
 }
 
 .section5--process2 {
@@ -433,6 +445,7 @@
 
   border: 5px solid #b9b9b9;
   transform: rotate(0deg);
+  border-radius: 25px;
 }
 
 .section5--button {
@@ -462,7 +475,7 @@
   width: 335px;
   height: 234px;
   left: 553px;
-  top: 188px;
+  top: 180px;
 }
 
 .section5--h32 {
@@ -523,6 +536,7 @@
   top: 551px;
 
   border: 5px solid #ffd600;
+  border-radius: 25px;
 }
 
 .section5--process4 {
@@ -534,6 +548,7 @@
 
   border: 5px solid #b9b9b9;
   transform: rotate(0deg);
+  border-radius: 25px;
 }
 
 .section5--button2 {
@@ -563,7 +578,7 @@
   width: 335px;
   height: 234px;
   left: 953px;
-  top: 188px;
+  top: 180px;
 }
 
 .section5--h33 {
@@ -624,6 +639,7 @@
   top: 551px;
 
   border: 5px solid #ffd600;
+  border-radius: 25px;
 }
 
 .section5--process6 {
@@ -635,6 +651,7 @@
 
   border: 5px solid #b9b9b9;
   transform: rotate(0deg);
+  border-radius: 25px;
 }
 
 .section5--button3 {
