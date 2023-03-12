@@ -82,15 +82,18 @@
 /* BODY */
 
 .section2--colortext {
+  z-index: 9999;
   color: #0075ff;
   display: block;
 }
 
 .section2--colortext2 {
+  z-index: 9999;
   color: #ffc700;
 }
 
 .section1--p {
+  z-index: 9999;
   position: absolute;
   width: 1091px;
   height: 278px;
