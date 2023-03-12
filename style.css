@@ -336,7 +336,7 @@
   width: 753px;
   height: 69px;
   left: 550px;
-  top: 40px;
+  top: -5px;
 
   font-style: normal;
   font-weight: 700;
@@ -435,6 +435,18 @@
   transform: rotate(0deg);
 }
 
+.section5--button {
+  position: absolute;
+  width: 235px;
+  height: 61px;
+  left: 203px;
+  top: 569px;
+
+  background: #0057ff;
+  color: #ffffff;
+  border-radius: 15px;
+}
+
 .section5--card2 {
   position: absolute;
   width: 365px;
@@ -524,6 +536,18 @@
   transform: rotate(0deg);
 }
 
+.section5--button2 {
+  position: absolute;
+  width: 235px;
+  height: 61px;
+  left: 603px;
+  top: 569px;
+
+  background: #0057ff;
+  color: #ffffff;
+  border-radius: 15px;
+}
+
 .section5--card3 {
   position: absolute;
   width: 365px;
@@ -611,6 +635,18 @@
 
   border: 5px solid #b9b9b9;
   transform: rotate(0deg);
+}
+
+.section5--button3 {
+  position: absolute;
+  width: 235px;
+  height: 61px;
+  left: 1003px;
+  top: 569px;
+
+  background: #0057ff;
+  color: #ffffff;
+  border-radius: 15px;
 }
 
 .footer {
