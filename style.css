@@ -13,6 +13,7 @@
   height: 29px;
   left: 138px;
   top: 18px;
+  text-decoration: 0;
 
   font-style: normal;
   font-weight: 400;
@@ -28,6 +29,7 @@
   height: 29px;
   left: 338px;
   top: 18px;
+  text-decoration: 0;
 
   font-style: normal;
   font-weight: 400;
@@ -70,6 +72,7 @@
   height: 29px;
   left: 1030px;
   top: 18px;
+  text-decoration: 0;
 
   font-style: normal;
   font-weight: 400;
@@ -460,6 +463,11 @@
   border-radius: 15px;
 }
 
+.section5--button1 {
+  text-decoration: 0;
+  color: #ffffff;
+}
+
 .section5--card2 {
   position: absolute;
   width: 365px;
@@ -561,6 +569,11 @@
   background: #0057ff;
   color: #ffffff;
   border-radius: 15px;
+}
+
+.section5--button21 {
+  text-decoration: 0;
+  color: #ffffff;
 }
 
 .section5--card3 {
@@ -666,6 +679,11 @@
   border-radius: 15px;
 }
 
+.section5--button31 {
+  text-decoration: 0;
+  color: #ffffff;
+}
+
 .footer {
   position: absolute;
   width: 1440px;
@@ -703,6 +721,10 @@
   color: #ffb800;
 }
 
+.footer--p1 {
+  text-decoration: 0;
+}
+
 .footer--h4 {
   position: absolute;
   width: 106px;
@@ -727,6 +749,7 @@
   left: 81px;
   top: 114px;
 
+  text-decoration: 0;
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
@@ -737,6 +760,11 @@
   color: #ffffff;
 }
 
+.footer--h422 {
+  text-decoration: 0;
+  color: #ffffff;
+}
+
 .footer--h43 {
   position: absolute;
   width: 481.33px;
@@ -744,11 +772,17 @@
   left: 138px;
   top: 159px;
 
+  text-decoration: 0;
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
   line-height: 35px;
 
+  color: #ffffff;
+}
+
+.footer--h433 {
+  text-decoration: 0;
   color: #ffffff;
 }
 
@@ -807,4 +841,186 @@
   height: 64px;
   left: 1138px;
   top: 136px;
+}
+
+/* A PAGE */
+
+.a--image1 {
+  position: absolute;
+  width: 1440px;
+  height: 845px;
+  z-index: 9999px;
+
+  background: rgba(0, 0, 0, 0.5);
+  filter: blur(5.5px);
+}
+
+.a--div {
+  position: absolute;
+  width: 1005px;
+  height: 598px;
+  left: 218px;
+  top: 124px;
+
+  background: #ffffff;
+  border-radius: 15px;
+}
+
+.a--email {
+  z-index: 9999;
+  position: absolute;
+  width: 58px;
+  height: 35px;
+  left: 271px;
+  top: 130px;
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 35px;
+
+  text-align: center;
+  color: #7c7c7c;
+}
+
+.a--1 {
+  position: absolute;
+  width: 519px;
+  height: 57px;
+  left: 261px;
+  top: 188px;
+
+  background: linear-gradient(0deg, #e2e2e2, #e2e2e2),
+    linear-gradient(0deg, #8a8a8a, #8a8a8a), #8a8a8a;
+  border-radius: 15px;
+}
+
+.a--money {
+  z-index: 9999;
+  position: absolute;
+  width: 161px;
+  height: 35px;
+  left: 271px;
+  top: 250px;
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 35px;
+
+  color: #7c7c7c;
+}
+
+.a--2 {
+  position: absolute;
+  width: 519px;
+  height: 57px;
+  left: 261px;
+  top: 309px;
+
+  background: linear-gradient(0deg, #e2e2e2, #e2e2e2),
+    linear-gradient(0deg, #8a8a8a, #8a8a8a), #8a8a8a;
+  border-radius: 15px;
+}
+
+.a--number {
+  z-index: 9999;
+  position: absolute;
+  width: 161px;
+  height: 35px;
+  left: 271px;
+  top: 373px;
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 35px;
+
+  color: #7c7c7c;
+}
+
+.a--3 {
+  position: absolute;
+  width: 519px;
+  height: 57px;
+  left: 261px;
+  top: 430px;
+
+  background: linear-gradient(0deg, #e2e2e2, #e2e2e2),
+    linear-gradient(0deg, #8a8a8a, #8a8a8a), #8a8a8a;
+  border-radius: 15px;
+}
+
+.a--button {
+  position: absolute;
+  width: 235px;
+  height: 61px;
+  left: 261px;
+  top: 551px;
+
+  background: #0057ff;
+  border-radius: 15px;
+}
+
+.a--a {
+  text-decoration: 0;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 35px;
+
+  text-align: center;
+  color: #ffffff;
+}
+
+.a--image2 {
+  position: absolute;
+  width: 335px;
+  height: 446px;
+  left: 835px;
+  top: 162px;
+}
+
+.close {
+  z-index: 9999;
+  position: absolute;
+  display: block;
+  width: 30px;
+  height: 15px;
+  left: 1179px;
+  top: 146px;
+  --weight: 1px;
+  --aa: 0.1px; /* anti-aliasing */
+  --color: black;
+  border-radius: 3px;
+  background: linear-gradient(
+      45deg,
+      transparent calc(50% - var(--weight) - var(--aa)),
+      var(--color) calc(50% - var(--weight)),
+      var(--color) calc(50% + var(--weight)),
+      transparent calc(50% + var(--weight) + var(--aa))
+    ),
+    linear-gradient(
+      -45deg,
+      transparent calc(50% - var(--weight) - var(--aa)),
+      var(--color) calc(50% - var(--weight)),
+      var(--color) calc(50% + var(--weight)),
+      transparent calc(50% + var(--weight) + var(--aa))
+    );
+}
+
+.d--h1 {
+  position: absolute;
+  width: 500px;
+  height: 69px;
+  left: 478px;
+  top: 320px;
+
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 69px;
+
+  text-align: center;
+  color: #000000;
 }
